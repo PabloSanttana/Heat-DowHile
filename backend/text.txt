@@ -1,0 +1,18 @@
+yarn add express
+
+yarn add -D @types/express typescript
+
+yarn add -D ts-node-dev    //ajudar no reload do servidor quando ouver alguma modificação de
+
+
+yarn tsc --initi ///configuração typescript
+
+yarn add dotenv  // usar propss.env
+
+
+yarn add jsonwebtoken // token na aplicação
+
+
+/// configuração de DB
+    -> create model prisma
+    yarn prisma migrate dev
